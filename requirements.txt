@@ -1,5 +1,6 @@
 git+https://github.com/huggingface/transformers # need to install from github
 datasets>=1.17.0
 pillow
+scikit-image
 pandas
 
