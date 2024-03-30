@@ -166,5 +166,4 @@ for file in filenames_crop:
   im_orig.save(os.path.join(result_dir,qual_crop + '_Act_cls_tiles_over_blind.png'))
 
   print(flow)
-  break
   print('top_left_offset', top_left_offset)
